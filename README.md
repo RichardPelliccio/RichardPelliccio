@@ -1,10 +1,9 @@
-**RichardPelliccio/RichardPelliccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
-## - 🔭 I’m currently working on learning programming
-## - 🌱 I’m currently learning at SouthTech Academy
-## - 📫 How to reach me: ...
-## - 😄 Pronouns: ...
-## - ⚡ Fun fact: ...
+# Hi there 👋
+- 🔭 I’m currently working on learning programming
+- 🌱 I’m currently learning at SouthTech Academy
+- 📫 How to reach me: RichieP on discord
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The "404 Not Found" was a common error message got its name from Room 404 at CERN, where the World Wide Web was created
 
 <!--
 Future stuff for my profile:
