@@ -1,9 +1,10 @@
 # Hi there 👋
-- 🔭 I’m currently working on learning programming
+- 🔭 I’m currently working on learning datacenter infrastructure
 - 🌱 I’m currently learning at SouthTech Academy
-- 📫 How to reach me: RichieP on discord
+- 📫 How to reach me: swiftytails on discord
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The "404 Not Found" was a common error message got its name from Room 404 at CERN, where the World Wide Web was created
+- ⚡ Fun fact: The "404 Not Found" was a common error message got its name from Room 404 at CERN, where the World Wide Web was created.
+- 📋 Portfolio site: https://portfolio.voidlands.org
 
 <!--
 Future stuff for my profile:
